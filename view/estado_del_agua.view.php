@@ -20,9 +20,9 @@
 
 	<div class="container">
 		<div class="form-group col-sm-6">
-	         <label for="sel1">Selecciona una localidad:</label>
+	         <label for="sel1">Selecciona un Municipio:</label>
 	         <select class="form-control" id="sel1">
-	         	<option value="0">--- Seleccione un municipio ---</option>
+	         	<option value="0">--- Seleccionar ---</option>
 	             <option value="1">Amacuzac</option>
 	             <option value="2">Atlatlahucan</option>
 	             <option value="3">Axochiapan</option>
